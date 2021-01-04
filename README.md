@@ -1,2 +1,2 @@
-# ProjectDuctTape
-Personal Discord Bot for my server!
+# Android 18
+A personal Discord bot for my server!
