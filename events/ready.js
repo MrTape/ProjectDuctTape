@@ -1,3 +1,5 @@
+const system = require('../system.js');
+
 const activities_list = [
     {
         "type": "WATCHING",
@@ -41,7 +43,7 @@ const activities_list = [
     },
     {
         "type": "PLAYING",
-        "message": "on v.0.1.0"
+        "message": `${system.config.LatestVersion}`
     },
 ]
 
