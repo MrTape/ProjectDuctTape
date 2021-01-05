@@ -3,4 +3,4 @@ package-lock.json
 config.json
 commands/
 events/
-systems.js
+system.js
