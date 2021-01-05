@@ -49,7 +49,7 @@ const activities_list = [
 
 module.exports = (client) => {
 
-	console.log('\x1b[33m', `[18] Ready to serve in the Duct Tape Discord server on version: 0.1.0!`, '\x1b[0m');
+	console.log('\x1b[33m', `[18] Ready to serve in the Duct Tape Discord server on version: ${system.config.LatestVersion}!`, '\x1b[0m');
 	setInterval(() => {
 		let index = Math.floor(Math.random() * (activities_list.length));
 		client.user.setActivity(activities_list[index].message, {type: activities_list[index].type});
