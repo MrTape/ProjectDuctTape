@@ -17,7 +17,7 @@ module.exports = {
             .setFooter(`Running on v${system.config.LatestVersion}`, client.user.displayAvatarURL({ format: 'png', dynamic: true, size: 1024 }))
             .addField("Current Version", `v${system.config.LatestVersion}`)
             .addField("Last Dated", system.config.LatestUpdate, true)
-            .addField("Current Changelog", `${system.config.ChangelogLink}+${system.config.LatestVersion}`, true)
+            .addField("Current Changelog", `${system.config.ChangelogLink}${system.config.LatestVersion}`, true)
         
             message.channel.send(embed);
     }
