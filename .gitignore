@@ -1,10 +1,4 @@
 # Folders
-node_modules/
-commands/
-events/
 source/
 
 # Individual Files
-package-lock.json
-config.json
-system.js
