@@ -1,7 +1,3 @@
-# Android 18
-A personal Discord bot for my server!
-
-## About
-Android18 is a small Discord bot I created for the purpose of doing so. It's heavily developed for my own personal server and nothing more.
-
-
+# 18
+A personal discord bot that was created just for fun! Still working on a lot of features that are important for any discord server! 
+- Trello: https://trello.com/b/btnmZGiz/18
