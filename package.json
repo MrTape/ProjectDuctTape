@@ -1,6 +1,6 @@
 {
   "name": "android-18",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Friendly personal Discord bot for the Duct Tape server!",
   "main": "index.js",
   "scripts": {
